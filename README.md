@@ -1,14 +1,14 @@
 # Roadlane-detection-yolo8l
 Detecting roadlanes in images and videos using YOLO8l
 
-This project uses YOLOv8 for detecting road lanes in images and videos. It supports training on custom datasets and real-time inference.
+This project uses YOLO8l for detecting road lanes in images and videos. It supports training on custom datasets and real-time inference.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/road-lane-detection.git
-   cd road-lane-detection
+   git clone https://github.com/GayathriDeviRV/Roadlane-detection-yolo8l.git
+   cd Roadlane-detection-yolo8l
    ```
 
 2. Install dependencies:
