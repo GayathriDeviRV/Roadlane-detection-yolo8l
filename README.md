@@ -16,6 +16,11 @@ This project uses YOLO8l for detecting road lanes in images and videos. It suppo
    pip install ultralytics opencv-python-headless matplotlib
    ```
 
+## Dataset
+The ROAD MARK Dataset contains 2,892 annotated images and videos focused on detecting and classifying road markings and objects like lane lines, arrows, and traffic signs. It covers diverse road scenarios and is split into Train, Validation, and Test sets, ideal for road safety model development.
+[ROAD MARK Dataset](https://www.kaggle.com/datasets/pkdarabi/road-mark-detection/data)
+
+
 ## Training
 
 1. Prepare your dataset and update the data.yaml file.
